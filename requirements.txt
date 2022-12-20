@@ -1,0 +1,4 @@
+yara_python
+pyinstaller
+pyarmor
+python-dotenv
