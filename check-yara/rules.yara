@@ -1,4 +1,4 @@
-rule remove_root_directory {
+rule yaractf {
     strings:
         $s = "b"
     condition:
