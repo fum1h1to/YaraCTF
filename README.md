@@ -1,4 +1,5 @@
-# 221220_yaraCTF
+# YaraCTF
+Yaraを用いたCTFの作成
 
 # How To
 1. Dockerをインストールする
